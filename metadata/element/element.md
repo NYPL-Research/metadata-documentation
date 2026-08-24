@@ -4,7 +4,7 @@ title: By Element
 permalink: /metadata/element/
 parent: MMS › Metadata
 nav_order: 4
-has_children: true
+has_children: false
 has_toc: false
 ---
 
