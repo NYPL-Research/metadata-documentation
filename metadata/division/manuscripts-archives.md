@@ -4,7 +4,7 @@ title: Manuscripts and Archives Division
 permalink: /division/manuscripts-archives/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: true
+nav_exclude: false
 ---
 
 <style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
