@@ -4,8 +4,7 @@ title: By Division
 permalink: /metadata/division/
 parent: MMS › Metadata
 nav_order: 7
-has_children: false
-has_toc: true
+has_children: true
 ---
 
 # By Division
