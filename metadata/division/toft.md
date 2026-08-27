@@ -4,7 +4,7 @@ title: Theatre on Film and Tape Archive
 permalink: /division/toft/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Theatre on Film and Tape Archive
