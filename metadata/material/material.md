@@ -4,7 +4,7 @@ title: By Material
 permalink: /metadata/material/
 parent: MMS › Metadata
 nav_order: 5
-has_children: false
+has_children: true
 ---
 
 # By Material
