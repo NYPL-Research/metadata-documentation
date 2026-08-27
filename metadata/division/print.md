@@ -4,7 +4,7 @@ title: Print Collection
 permalink: /division/print/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Print Collection
