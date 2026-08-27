@@ -4,7 +4,7 @@ title: Berg Collection
 permalink: /division/berg/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: false
+nav_exclude: true
 ---
 
 <style>code { white-space : pre-wrap !important; word-break: break-word; }</style>
