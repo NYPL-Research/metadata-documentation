@@ -4,7 +4,7 @@ title: Photography Collection
 permalink: /division/photography/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Photography Collection
