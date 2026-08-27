@@ -4,7 +4,7 @@ title: Importing Metadata
 permalink: /workflows/importing/
 parent: MMS › Workflows
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # Importing Metadata
