@@ -5,6 +5,7 @@ permalink: /contact/form/
 parent: Contact
 nav_order: 1
 has_toc: false
+has_children: false
 ---
 
 # Contact Form
