@@ -87,7 +87,7 @@ For Metadata Services Staff
 {: .note-title }
 > Note for ClickUp Admin
 >
-> The steps for routing feedback tasks can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/clickup.md#metadata-feedback).
+> The steps for routing feedback tasks can be found in [metadata-admin 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/clickup.md#metadata-feedback).
 
 ## See Also
 - [Reimporting Metadata › Reviewing a Finding Aid Update from Archival Processing](/metadata-documentation/workflows/remediation/reimporting/#reviewing-a-finding-aid-update-from-archival-processing) for steps that should be followed in the event metadata feedback indicates a finding aid update

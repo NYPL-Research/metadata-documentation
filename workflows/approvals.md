@@ -73,7 +73,7 @@ For Metadata Services Staff
 {: .note-title }
 > Note for ClickUp Admin
 >
-> The steps for routing approval tasks can be found in [metadata-admin 🔒](https://github.com/NYPL/metadata-admin/blob/main/clickup.md#new-digitization-approvals)
+> The steps for routing approval tasks can be found in [metadata-admin 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/clickup.md#new-digitization-approvals)
 
 ## See Also
 

@@ -605,7 +605,7 @@ Common terms used within the work of Metadata Services
 ## See Also
 
 - [Metadata Liaisons and Contacts 🔒](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) for a complete list of research library division acronyms and names
-- [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by Metadata Services
+- [Technology Overview 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/technology-overview.md) for a complete list of software, apps, and platforms used by Metadata Services
 - [Identifier](/metadata-documentation/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
 - [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
 - [NYPL Acronyms 🔒](https://docs.google.com/spreadsheets/d/1KQ102LS0tdOwiqoSssYJkx9m-QIZco-MIdnUeTDGbVs/edit) for a list of acronyms that are used at the New York Public Library

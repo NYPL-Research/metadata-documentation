@@ -17,13 +17,13 @@ nav_order: 2
 
 ## GitHub Repos
 
-[metadata-admin 🔒](https://github.com/NYPL/metadata-admin/)
+[metadata-admin 🔒](https://github.com/NYPL-Research/metadata-admin/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains internal information for Metadata Services staff members
 {: .mt-1 .mb-0 }
-- [Employee Handbook 🔒](https://github.com/NYPL/metadata-admin/blob/main/employee-handbook.md)
+- [Employee Handbook 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/employee-handbook.md)
 {: .mt-1 .mb-0 }
-- [Technology Overview 🔒](https://github.com/NYPL/metadata-admin/blob/main/technology-overview.md)
+- [Technology Overview 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/technology-overview.md)
 {: .mt-1 .mb-0 }
 
 [metadata-database 🔒](https://github.com/NYPL/metadata-database/)
