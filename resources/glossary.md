@@ -286,7 +286,7 @@ Common terms used within the work of Metadata Services
 
 <a name="classic-catalog"></a>
 <dt>Classic Catalog</dt>
-<dd>former name of the <a href="#research-catalog">Research Catalog</a></dd>
+<dd>former name of the <a href="#legacy-catalog">Legacy Catalog</a></dd>
 
 <a name="collection-management-system"></a>
 <dt>Collection Management System</dt>
