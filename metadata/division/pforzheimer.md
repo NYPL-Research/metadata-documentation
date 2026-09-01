@@ -4,7 +4,7 @@ title: Pforzheimer Collection
 permalink: /division/pforzheimer/
 parent: By Division
 grand_parent: MMS › Metadata
-nav_exclude: false
+nav_exclude: true
 ---
 
 # Pforzheimer Collection
