@@ -67,10 +67,7 @@ Provides guidelines for metadata describing material from the Print Collection i
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection- or container record representing a series, use the title of the series as the **Title**
-- For a collection record containing works by a single creator, use one of the following formats for the **Title**, replacing `[creator]` with the name of creator:
-  - `Prints by [creator]`
-  - `[Creator]: prints`
-  - `[Creator] prints`
+- For a collection record containing works by a single creator, use `Prints by [creator]` as the the **Title**, replacing `[creator]` with the name of creator
 - For a item record representing a print:
   - Use the title of the print as the **Title**
   - Delete any **Title** elements that correspond to the series after ensuring the item record is located within a collection or container for the series
