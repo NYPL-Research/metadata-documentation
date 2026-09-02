@@ -67,10 +67,7 @@ Provides guidelines for metadata describing material from the Photography Collec
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection- or container record representing a series, use the title of the series as the **Title**
-- For a collection record containing works by a single creator, use one of the following formats for the **Title**, replacing `[creator]` with the name of creator:
-  - `Photographs by [creator]`
-  - `[Creator]: photographs`
-  - `[Creator] photographs`
+- For a collection record containing works by a single creator, use `Photographs by [creator]` as the the **Title**, replacing `[creator]` with the name of creator
 - For a item record representing a photograph:
   - Use the title of the photograph as the **Title**
   - Delete any **Title** elements that correspond to the series after ensuring the item record is located within a collection or container for the series
