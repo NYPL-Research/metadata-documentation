@@ -26,22 +26,22 @@ Contains internal information for Metadata Services staff members
 - [Technology Overview 🔒](https://github.com/NYPL-Research/metadata-admin/blob/main/technology-overview.md)
 {: .mt-1 .mb-0 }
 
-[metadata-database 🔒](https://github.com/NYPL/metadata-database/)
+[metadata-database 🔒](https://github.com/NYPL-Research/metadata-database/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains documentation and SQL examples for querying the MMS database
 {: .mt-1 .mb-0 }
 
-[metadata-documentation](https://github.com/NYPL/metadata-documentation/)
+[metadata-documentation](https://github.com/NYPL-Research/metadata-documentation/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains the files for our [public documentation site](/metadata-documentation/) that covers our best practices, workflows, resources, etc.
 {: .mt-1 .mb-0 }
 
-[metadata-projects 🔒](https://github.com/NYPL/metadata-projects/)
+[metadata-projects 🔒](https://github.com/NYPL-Research/metadata-projects/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains code components related to our current and past projects and initiatives
 {: .mt-1 .mb-0 }
 
-[metadata-tools 🔒](https://github.com/NYPL/metadata-tools/)
+[metadata-tools 🔒](https://github.com/NYPL-Research/metadata-tools/)
 {: .fw-500 .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
 Contains code intended for reuse across projects and initiatives including training material for working with MMS data
 {: .mt-1 .mb-0 }

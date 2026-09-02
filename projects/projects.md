@@ -94,7 +94,7 @@ Last updated September 2023
 
 | Dates | beginning June 2020 |
 | Collaborators | Billy Rose Theatre Division (Jeremy M., Steve M., Charlie M. and Brendan L.) with assistance from Tom L. and [PAMI](/metadata-documentation/resources/glossary/#preservation-of-audio-moving-image) staff |
-| Related Links | [Google Slides for initial spreadsheet-based workflow 🔒](https://docs.google.com/presentation/d/1UDADAW9HOoMznR59MNf_-vwHWcMYpwJEjri6lf4SgrA/edit){: .btn } [JupyterLab notebook for current programmatic workflow 🔒](https://github.com/NYPL/metadata-projects/blob/main/in-progress/2020-06_friedman-abeles-titles-subjects/friedman-abeles_titles-subjects.ipynb){: .btn } [Friedman-Abeles photographs: [legacy collection] on Digital Collections](https://digitalcollections.nypl.org/collections/7a830280-c542-012f-b87c-58d385a7bc34){: .btn } |
+| Related Links | [Google Slides for initial spreadsheet-based workflow 🔒](https://docs.google.com/presentation/d/1UDADAW9HOoMznR59MNf_-vwHWcMYpwJEjri6lf4SgrA/edit){: .btn } [JupyterLab notebook for current programmatic workflow 🔒](https://github.com/NYPL-Research/metadata-projects/blob/main/in-progress/2020-06_friedman-abeles-titles-subjects/friedman-abeles_titles-subjects.ipynb){: .btn } [Friedman-Abeles photographs: [legacy collection] on Digital Collections](https://digitalcollections.nypl.org/collections/7a830280-c542-012f-b87c-58d385a7bc34){: .btn } |
 
 #### Overview
 {: .no_toc }
@@ -141,7 +141,7 @@ Last updated September 2023
 
 | Dates | beginning December 2021 (initial refresh occurred between January–September 2022) |
 | Collaborators | ILS Team (Aaron D., Antonio S.); Special Collections Processing; BookOps |
-| Related Links | [metadata-tools 🔒](https://github.com/NYPL/metadata-projects/tree/main/ongoing/bnumber-links-to-dc){: .btn } [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing){: .btn } [MMS › Workflows / Linking Between Systems / Research Catalog](/metadata-documentation/workflows/linking/#research-catalog){: .btn } [MMS › Metadata / By Element / Identifier / NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/){: .btn } |
+| Related Links | [metadata-tools 🔒](https://github.com/NYPL-Research/metadata-projects/tree/main/ongoing/bnumber-links-to-dc){: .btn } [Data Supplied to ILS Team 🔒](https://drive.google.com/drive/folders/1ktPZqRYoIv0yJIWTwLDeRhM766GKaDU7?usp=sharing){: .btn } [MMS › Workflows / Linking Between Systems / Research Catalog](/metadata-documentation/workflows/linking/#research-catalog){: .btn } [MMS › Metadata / By Element / Identifier / NYPL catalog ID (B-number)](/metadata-documentation/metadata/element/identifier/bnumber/){: .btn } |
 
 #### Overview
 {: .no_toc }
@@ -221,7 +221,7 @@ Last updated September 2023
 
 | Dates | December 2022–January 2023 |
 | Collaborators | Schomburg Art & Artifacts; Kimberly H. (Schomburg); participants of the December 2022 Wiki Edu Wikidata Office Hours Course |
-| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Projects#Michael_Cummings_African_American_Art_Event_Ephemera_Collection){: .btn } [Michael Cummings & A Bygone Era in Art](https://www.nypl.org/events/exhibitions/michael-cummings-bygone-era-art){: .btn } [Google Sheet 🔒](https://docs.google.com/spreadsheets/d/1lrgiZmo7PL-wCgF5hb4qzf8UNRC2h0erBRy8pV6tvd8/edit){: .btn } [GitHub 🔒](https://github.com/NYPL/metadata-projects/tree/main/x_completed/2023-05_michael-cummings-art-event-ephemera){: .btn } |
+| Related Links | [WikiProject](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Projects#Michael_Cummings_African_American_Art_Event_Ephemera_Collection){: .btn } [Michael Cummings & A Bygone Era in Art](https://www.nypl.org/events/exhibitions/michael-cummings-bygone-era-art){: .btn } [Google Sheet 🔒](https://docs.google.com/spreadsheets/d/1lrgiZmo7PL-wCgF5hb4qzf8UNRC2h0erBRy8pV6tvd8/edit){: .btn } [GitHub 🔒](https://github.com/NYPL-Research/metadata-projects/tree/main/x_completed/2023-05_michael-cummings-art-event-ephemera){: .btn } |
 
 
 #### Overview

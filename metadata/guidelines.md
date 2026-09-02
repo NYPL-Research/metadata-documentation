@@ -88,5 +88,5 @@ MMS item records must include the following seven descriptive metadata elements/
     - An `i` indicates that rights metadata is inherited from a higher container or collection ([example](https://metadata.nypl.org/collection/40232))
     - Dashes (`--`) indicate that rights have not been assigned at the record level and are not inherited from a higher container or collection ([example](https://metadata.nypl.org/collection/40346))
   - The **Rights and use** tab displays what is shown on the **Overview** tab as well as **Approved uses** and **Rights Research and Copyright Information Summary**
-    - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined in [metadata-database › Quick Reference › Rights Statements🔒](https://github.com/NYPL/metadata-database/blob/main/quick-reference.md#rights-statements)
+    - Codes used for the **Copyright status** in the **Rights Research and Copyright Information Summary** are defined in [metadata-database › Quick Reference › Rights Statements🔒](https://github.com/NYPL-Research/metadata-database/blob/main/quick-reference.md#rights-statements)
   - MMS users with a **Rights Staff** and/or **Rights Admin** [user role](/metadata-documentation/system/accounts/#user-roles) will see more information on the **Rights and use** tab and throughout MMS than those who do not

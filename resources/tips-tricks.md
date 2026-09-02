@@ -148,7 +148,7 @@ Replace `A$2:A` with the range and `A2` with the cell containing the string you 
 This same technique can be used to retrieve additional identifiers from VIAF by replacing `LC` with the code that corresponds to the respective [authority source code](https://www.oclc.org/developer/api/oclc-apis/viaf/authority-cluster.en.html#:~:text=Authority%20Source%20Codes).
 
 ## See Also
-- [MMS Database and SQL Queries 🔒](https://github.com/NYPL/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
+- [MMS Database and SQL Queries 🔒](https://github.com/NYPL-Research/metadata-tools/tree/master/_mms-database-and-sql-queries) for example SQL queries, navigation information, and quick reference
 - [Wikidata:WikiProject New York Public Library/Queries](https://www.wikidata.org/wiki/Wikidata:WikiProject_New_York_Public_Library/Queries) for reusable SPARQL queries for Wikidata
 - [Regex Resources for Catalogers and Others in the Library](https://ruthtillman.com/post/regex-catalogers/) for an overview of Regular Expressions for a library audience
 - [BenCollins: Spreadsheets](https://benlcollins.com/spreadsheets) for scripts and templates that can be used when working in Google Sheets

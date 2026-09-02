@@ -234,7 +234,7 @@ Consolidating records (previously known as container collapsing) refers to the p
    1. Any other custom fields as appropriate
 1. Review legacy items to identify any unique metadata elements that would be appropriate to relocate to the target item(s)
    1. When consolidating a small number of legacy item records, review the item records individually in MMS
-   1. When consolidating a large number of legacy item records, see the documentation for [Preparing to Consolidate Records 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_example-sql-queries.md#preparing-to-consolidate-records) in pgAdmin
+   1. When consolidating a large number of legacy item records, see the documentation for [Preparing to Consolidate Records 🔒](https://github.com/NYPL-Research/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_example-sql-queries.md#preparing-to-consolidate-records) in pgAdmin
       1. If you need assistance programmatically reviewing the existing metadata of legacy item records, contact [Manager, Metadata Services](/metadata-documentation/contact/#our-team)
 1. Create or identify a target item record(s) where the captures will be relocated
    1. Depending on the source of the description for the book or book-like object [import](/metadata-documentation/workflows/importing/) or [create](/metadata-documentation/workflows/creating/) a target item record

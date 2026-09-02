@@ -74,4 +74,4 @@ Deleted records cannot be restored within MMS, so take caution to ensure all cri
    1. Review the pop-up and click **Sounds good, make it so**
 
 # See Also
-- [MMS Database › Navigation 🔒](https://github.com/NYPL/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_navigation.md#descriptive-metadata) for details on accessing the MODS XML of deleted item, container, and collection records
+- [MMS Database › Navigation 🔒](https://github.com/NYPL-Research/metadata-tools/blob/master/_mms-database-and-sql-queries/mms-db_navigation.md#descriptive-metadata) for details on accessing the MODS XML of deleted item, container, and collection records

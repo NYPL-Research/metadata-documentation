@@ -188,4 +188,4 @@ For Metadata Services Staff
 ## See Also
 - [Contact Form](/metadata-documentation/contact/form/) for non-Metadata Services staff to report issues to Metadata Services
 - [Metadata Feedback](/metadata-documentation/workflows/remediation/feedback/) for an overview of reviewing feedback relating to metadata MMS and DC for Metadata Services staff
-- [Removal of Captures with Broken Image Assets [Pilot] 🔒](https://github.com/NYPL/metadata-projects/tree/main/x_completed/2022-2023_removal-of-caps-w-broken-image-assets_pilot) on GitHub for additional documentation of a workflow related to broken image assets
+- [Removal of Captures with Broken Image Assets [Pilot] 🔒](https://github.com/NYPL-Research/metadata-projects/tree/main/x_completed/2022-2023_removal-of-caps-w-broken-image-assets_pilot) on GitHub for additional documentation of a workflow related to broken image assets
