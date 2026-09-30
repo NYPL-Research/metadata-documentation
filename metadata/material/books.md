@@ -93,14 +93,14 @@ Provides guidelines for metadata specific to books described in the Metadata Man
 [View Metadata Services Documentation for Element →](/metadata-documentation/metadata/element/genre/)
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
-- Add **Genre** based on the [Genre (non-AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet, which includes [Books](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A41) and additional narrower terms
+- Add **Genre** based on the [Genre (non-AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet, which includes **Books** and additional narrower terms
 - For an item record representing a portion of a partially-digitized book, add a **Genre** that describes the item, e.g.
-  - [Title pages](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A333)
-  - [Frontispieces](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027\&range=A131)
-  - [pages (components)](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A224)
-  - [folios (leaves)](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A129)
-  - [articles](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A19)
-  - [Illustrations](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A154)
+  - **Title pages**
+  - **Frontispieces**
+  - **pages (components)**
+  - **folios (leaves)**
+  - **articles**
+  - **Illustrations**
 
 ---
 
