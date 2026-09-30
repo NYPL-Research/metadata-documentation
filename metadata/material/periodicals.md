@@ -148,13 +148,13 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - Add **Genre** based on the [Genre (non-AMI) 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027) tab of the [Genre + Form + Extent 🔒](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit) spreadsheet, which includes:
-  - [Periodicals](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A233)
-  - [Newspapers](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A216)
-  - [Zines](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A365)
+  - **Periodicals**
+  - **Newspapers
+  - **Zines**
 - For an item record representing a portion of a partially-digitized issue, add a **Genre** that describes the item, e.g.
-  - [Magazine covers](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A192)
-  - [articles](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=1262013027\&range=A19)
-  - [Illustrations](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit?gid=1262013027#gid=1262013027&range=A155)
+  - **Magazine covers**
+  - **articles**
+  - **Illustrations**
 
 ---
 
@@ -164,7 +164,7 @@ Provides guidelines for metadata specific to periodicals such as magazines and n
 {: .d-inline .v-align-middle .text-zeta .ml-2 }
 
 - For a collection record representing the periodical, do not set the **Physical description** to be **Inheritable**
-- For periodicals digitized from a microform (including microfiche and microfilm), add a **Form** subelement with [Microforms](https://docs.google.com/spreadsheets/d/1NGlV94Iufe0p3EJdoJDX7SgvH-LUYqWLEuB1Az3DmbM/edit#gid=500310202\&range=D36) as the value to the appropriate collection- or container record and set to be **Inheritable**
+- For periodicals digitized from a microform (including microfiche and microfilm), add a **Form** subelement with **Microforms** as the value to the appropriate collection- or container record and set to be **Inheritable**
 
 ---
 
