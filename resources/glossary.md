@@ -386,7 +386,7 @@ Common terms used within the work of Metadata Services
 
 <a name="humanities-and-social-sciences-research-library"></a>
 <dt>Humanities and Social Sciences Research Library</dt>
-<dd>divisions located at the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></dd>
+<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; located in the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></a></dd>
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
@@ -538,7 +538,7 @@ Common terms used within the work of Metadata Services
 
 <a name="research-libraries"></a>
 <dt>Research Libraries</dt>
-<dd>library system consisting of the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a>, <a href="#schomburg-center-for-research-in-black-culture">Schomburg Center for Research in Black Culture</a>, and <a href="#library-for-the-performing-arts">Library for the Performing Arts</a> as well as <a href="#collections-research-services">Collections and Research Services</a>; most collections are non-circulating and managed separately from the Branch Libraries system</dd>
+<dd>library system consisting of the <a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a> at the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a>, <a href="#schomburg-center-for-research-in-black-culture">Schomburg Center for Research in Black Culture</a>, and <a href="#library-for-the-performing-arts">Library for the Performing Arts</a>; also includes departments including <a href="#collections-research-services">Collections and Research Services</a>, <a href="#public-programs-exhibitions-research-libraries">Public Programs and Exhibitions, Research Libraries</a>, et al.; most collections are non-circulating and managed separately from the Branch Libraries system</dd>
 
 <a name="resource-description-access"></a>
 <dt>Resource Description and Access</dt>
@@ -574,7 +574,8 @@ Common terms used within the work of Metadata Services
 
 <a name="stephen-a-schwarzman-building"></a>
 <dt>Stephen A. Schwarzman Building</dt>
-<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a> and its flagship location; houses research collections in the humanities and social sciences; sometimes referred to by previous names including the Main Branch, Central, or Humanities and Social Sciences Research Library (HSSRL)</dd>
+<dd>
+the Library's flagship location and home to the <a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a>; sometimes referred to as the "main branch" or "central library"</dd>
 
 <a name="structured-query-language"></a>
 <dt>Structured Query Language</dt>
