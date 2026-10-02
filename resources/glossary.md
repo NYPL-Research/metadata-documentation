@@ -386,7 +386,7 @@ Common terms used within the work of Metadata Services
 
 <a name="humanities-and-social-sciences-research-library"></a>
 <dt>Humanities and Social Sciences Research Library</dt>
-<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; located in the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></a></dd>
+<dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; located in the <a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a></dd>
 
 <a name="integrated-library-system"></a>
 <dt>integrated library system</dt>
