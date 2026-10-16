@@ -37,7 +37,7 @@ Liaison to Library for the Performing Arts divisions: Billy Rose Theatre Divisio
 
 **Kait Astrella**, Metadata Specialist II
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Humanities and Social Sciences Research Library divisions: Rare Book Division (George Arents Collection); Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
+Liaison to Humanities and Social Sciences Research Library divisions: Rare Book Division; George Arents Collection; Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
 {: .mt-1 .mb-0 }
 
 **Nic Caldwell**, Metadata Specialist II
