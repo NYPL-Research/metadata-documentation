@@ -27,7 +27,7 @@ For issues pertaining to the Digital Collections (loading, assets, searching, in
 
 **Sarah Adams**, Metadata Specialist III
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Berg Collection; Dorot Jewish Division; General Research Division; Pforzheimer Collection
+Liaison to Humanities and Social Sciences Research Library divisions: Berg Collection; Dorot Jewish Division; General Research Division; Pforzheimer Collection
 {: .mt-1 .mb-0 }
 
 **Emma Clarkson**, Metadata Specialist III
@@ -37,7 +37,7 @@ Liaison to Library for the Performing Arts divisions: Billy Rose Theatre Divisio
 
 **Kait Astrella**, Metadata Specialist II
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Rare Book Division (George Arents Collection); Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
+Liaison to Humanities and Social Sciences Research Library divisions: Rare Book Division; George Arents Collection; Wallach Division (Art & Architecture Collection; Photography Collection; Picture Collection; Print Collection; Spencer Collection)
 {: .mt-1 .mb-0 }
 
 **Nic Caldwell**, Metadata Specialist II
@@ -47,7 +47,7 @@ Liaison to Schomburg Center for Research in Black Culture divisions: Art and Art
 
 **Elliot Galvis**, Metadata Specialist II
 {: .text-grey-dk-300 .fs-5 .mt-5 .mb-0}
-Liaison to Stephen A. Schwarzman Building divisions: Manuscripts and Archives Division; Map Division; Milstein Division; NYPL Archives
+Liaison to Humanities and Social Sciences Research Library divisions: Manuscripts and Archives Division; Map Division; Milstein Division; NYPL Archives
 {: .mt-1 .mb-0 }
 
 {: .highlight }
