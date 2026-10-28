@@ -45,10 +45,10 @@ Only EAD-encoded finding aids will have XML that contains the full finding aid's
 ### Download a PDF of an Item
 1. From a Digital Collections item, click the **Share** icon in the image viewer
 1. Copy the URL in **IIIF Manifest**
-1. Paste the URL into the **Manifest URL" at `https://www.lizmfischer.com/iiif-tools/download`
+1. Paste the URL into the **Manifest URL** at https://www.lizmfischer.com/iiif-tools/download
 1. For **Size**, select **Percent**
     1. Which percent you want to use will vary based on intended size and resolution, but you can start with `50` and adjust if needed
-1. For **Output format*, select **PDF**
+1. For **Output format**, select **PDF**
 1. Click the **Submit** button and keep the tab active while the download progresses
 
 ## Google Sheets
