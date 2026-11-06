@@ -234,6 +234,9 @@ Common terms used within the work of Metadata Services
 <dt>TMS</dt>
 <dd><a href="#the-museum-system">The Museum System</a></dd>
 
+<dt>UPE</dt>
+<dd>Unified Patron Experience</dd>
+
 <dt>URI</dt>
 <dd><a href="#uniform-resource-identifier">Uniform Resource Identifier</a></dd>
 
@@ -338,7 +341,7 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-collections-operations"></a>
 <dt>Digital Collections Operations</dt>
-<dd>department dedicated to digital asset management from preservation to access comprised of <a href="#digital-asset-management-access">Digital Asset Management and Access</a>, Digital Preservation, and Digital Reformatting ()</dd>
+<dd>department dedicated to digital asset management from preservation to access comprised of <a href="#digital-asset-management-access">Digital Asset Management and Access</a>, Digital Preservation, and Digital Reformatting</dd>
 
 <a name="digital-collections-services"></a>
 <dt>Digital Collections Services</dt>
