@@ -55,7 +55,7 @@ Common terms used within the work of Metadata Services
 <dd><a href="#collections-access-discovery">Collections Access and Discovery</a> (deprecated)</dd>
   
 <dt>CATNYP</dt>
-<dd><a href="#catalog-of-the-new-york-public-library">Catalog of The New York Public Library</a> (deprecated)</dd>
+<dd>Catalog of The New York Public Library (deprecated), now <a href="#research-catalog">Research Catalog</a></dd>
 
 <dt>CIP</dt>
 <dd><a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
@@ -169,10 +169,10 @@ Common terms used within the work of Metadata Services
 <dd><a href="#media-preservation-labs">Media Preservation Labs</a></dd>
 
 <dt>MPS</dt>
-<dd><a href="#media-preservation-services">Media Preservation Services</a></dd>
+<dd>Media Preservation Services</dd>
 
-<dt>Metadata Services</dt>
-<dd><a href="#metadata-services">Metadata Services Unit</a></dd>
+<dt>MSU</dt>
+<dd>Metadata Services Unit, see <a href="#metadata-services">Metadata Services</a></dd>
 
 <dt>NYPL</dt>
 <dd>New York Public Library</dd>
@@ -257,7 +257,7 @@ Common terms used within the work of Metadata Services
 
 <a name="access-research-services"></a>
 <dt>Access and Research Services</dt>
-<dd>supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAPM</a> shared collection</dd>
+<dd>supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAP</a> shared collection</dd>
 
 <a name="anglo-american-cataloging-rules"></a>
 <dt>Anglo-American Cataloging Rules</dt>
@@ -282,10 +282,6 @@ Common terms used within the work of Metadata Services
 <a name="bnumber"></a>
 <dt>bnumber</dt>
 <dd>bibliographic number, the primary identifier for a library catalog record used in <a href="#sierra">Sierra</a></dd>
-
-<a name="catalog-of-the-new-york-public-library"></a>
-<dt>Catalog of The New York Public Library</dt>
-<dd>former name of the <a href="#research-catalog">Research Catalog</a></dd>
 
 <a name="classic-catalog"></a>
 <dt>Classic Catalog</dt>
@@ -472,7 +468,7 @@ Common terms used within the work of Metadata Services
 <dd><a href="#extensible-markup-language">XML</a>-based bibliographic description schema developed by the <a href="#library-of-congress">Library of Congress</a>; basis for metadata schema used in the <a href="#metadata-management-system">Metadata Management System</a></dd>
 
 <a name="metadata-services"></a>
-<dt>Metadata Services (or Metadata Services Unit)</dt>
+<dt>Metadata Services</dt>
 <dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="migration-of-records-and-cataloging-consolidation"></a>
