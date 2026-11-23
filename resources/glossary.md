@@ -41,7 +41,8 @@ Common terms used within the work of Metadata Services
 <dd>Archival Processing <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing">↗</a></dd>
 
 <dt>APU</dt>
-<dd>Archival Processing Unit (deprecated, now <a href="#archival-processing">Archival Processing</a>)</dd>
+<dd>Archival Processing Unit (deprecated)<br>
+    <i>see <a href="#archival-processing">Archival Processing</a></i></dd>
 
 <dt>API</dt>
 <dd>application programming interface <a href="https://en.wikipedia.org/wiki/API">↗</a></dd>
