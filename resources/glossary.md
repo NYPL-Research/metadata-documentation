@@ -292,7 +292,7 @@ Common terms used within the work of Metadata Services
 
 <a name="access-research-services"></a>
 <dt>Access and Research Services</dt>
-<dd>department within <a href="#collections-research-services">Collections and Research Services</a> that supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAP</a> shared collection</dd>
+<dd>department within <a href="#collections-research-services">Collections and Research Services</a> that supports patron discovery and access to the Library's research collections by managing discovery systems, resource-sharing partnerships (including <a href="#research-collections-preservation-consortium">ReCAP</a>), document delivery, and accessibility initiatives</dd>
 
 <a name="archives-portal"></a>
 <dt>Archives Portal</dt>
@@ -336,7 +336,7 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-asset-management-access"></a>
 <dt>Digital Asset Management and Access</dt>
-<dd>department within <a href="#digital-collections-operatoins">Digital Collections Operations</a> dedicated to management of and access to digital assets in platforms such as Digital Collections; comprised of a Digital Asset Manager, <a href="#rights-clearance">Rights Clearance</a>, <a href="#metadata-services">Metadata Services</a>, and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> dedicated to management of and access to digital assets in platforms such as Digital Collections; comprised of a Digital Asset Manager, <a href="#rights-clearance">Rights Clearance</a>, <a href="#metadata-services">Metadata Services</a>, and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
 
 <a name="digital-asset-preservation-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
@@ -360,11 +360,11 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-preservation"></a>
 <dt>Digital Preservation</dt>
-<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+<dd>team within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="digital-reformatting"></a>
 <dt>Digital Reformatting</dt>
-<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> preserves and expands access to the Library's research collections by managing in-house and vendor digitization operations including its <a href="#digital-imaging-services">Digital Imaging Services</a> and <a href="#audio-moving-image-preservation">Audio & Moving Image Preservation</a>; primary offices located at the <a href="#library-services-center">Library Services Center</a> and <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
 
 <a name="early-access-viewer"></a>
 <dt>Early Access Viewer</dt>
@@ -520,7 +520,7 @@ Common terms used within the work of Metadata Services
   
 <a name="rights-clearance"></a>
 <dt>Rights Clearance</dt>
-<dd>department within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</a></dd>
+<dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</a></dd>
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
