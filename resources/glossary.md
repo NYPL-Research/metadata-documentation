@@ -322,7 +322,7 @@ Common terms used within the work of Metadata Services
 
 <a name="collections-research-services"></a>
 <dt>Collections and Research Services</dt>
-<dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Processing</dd>
+<dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development and Global Studies, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Processing</dd>
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
