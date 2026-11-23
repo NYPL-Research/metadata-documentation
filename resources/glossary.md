@@ -42,7 +42,7 @@ Common terms used within the work of Metadata Services
 
 <dt>APU</dt>
 <dd>Archival Processing Unit (deprecated)
-<p style="margin-left: 10px; font-style: italic;">see <a href="#archival-processing">Archival Processing</a></p></dd>
+<div style="margin-left: 10px; font-style: italic;">see <a href="#archival-processing">Archival Processing</a></div></dd>
 
 <dt>API</dt>
 <dd>application programming interface <a href="https://en.wikipedia.org/wiki/API">↗</a></dd>
@@ -54,7 +54,8 @@ Common terms used within the work of Metadata Services
 <dd><a href="#archivesspace">ArchivesSpace</a></dd>
 
 <dt>CAD</dt>
-<dd>Collections Access and Discovery (deprecated, now <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a>)</dd>
+<dd>Collections Access and Discovery (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a></div></dd>
   
 <dt>CATNYP</dt>
 <dd>Catalog of The New York Public Library (deprecated, now <a href="#research-catalog">Research Catalog</a>)</dd>
