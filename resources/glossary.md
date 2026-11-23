@@ -31,21 +31,21 @@ Common terms used within the work of Metadata Services
 <dd>audio and moving image</dd>
 
 <dt>AMID</dt>
-<dd>Audio and Moving Image Description</dd>
+<dd>Audio & Moving Image Description <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging/audio-moving-image-description">↗</a></dd>
 
 <dt>AMIP</dt>
 <dd>Audio and Moving Image Preservation</dd>
 
 <dt>AP</dt>
-<dd>Archival Processing</dd>
+<dd>Archival Processing <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing">↗</a></dd>
 
 <dt>APU</dt>
-<dd>Archival Processing Unit (deprecated)</dd>
+<dd>Archival Processing Unit (deprecated, now Archival Processing)</dd>
 
 <dt>API</dt>
 <dd>application programming interface</dd>
 
-<dt>ARS</dt>
+<dt>ACRES</dt>
 <dd><a href="#access-research-services">Access and Research Services</a></dd>
 
 <dt>ASpace</dt>
