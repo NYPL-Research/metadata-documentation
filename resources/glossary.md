@@ -22,7 +22,7 @@ Common terms used within the work of Metadata Services
 <dl>
 
 <dt>AACR</dt>
-<dd><a href="#anglo-american-cataloging-rules">Anglo-American Cataloging Rules</a></dd>
+<dd>Anglo-American Cataloging Rules <a href="https://dictionary.archivists.org/entry/anglo-american-cataloguing-rules.html">↗</a></dd>
 
 <dt>AAT</dt>
 <dd><a href="#art-architecture-thesaurus">Art & Architecture Thesaurus</a></dd>
@@ -34,16 +34,17 @@ Common terms used within the work of Metadata Services
 <dd>Audio & Moving Image Description <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging/audio-moving-image-description">↗</a></dd>
 
 <dt>AMIP</dt>
-<dd>Audio and Moving Image Preservation</dd>
+<dd><a href="#audio-moving-image-preservation">Audio & Moving Image Preservation</a></a></dd>
 
+<a name="archival-processing"></a>
 <dt>AP</dt>
 <dd>Archival Processing <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing">↗</a></dd>
 
 <dt>APU</dt>
-<dd>Archival Processing Unit (deprecated, now Archival Processing)</dd>
+<dd>Archival Processing Unit (deprecated, now <a href="#archival-processing">Archival Processing</a>)</dd>
 
 <dt>API</dt>
-<dd>application programming interface</dd>
+<dd>application programming interface <a href="https://en.wikipedia.org/wiki/API">↗</a></dd>
 
 <dt>ACRES</dt>
 <dd><a href="#access-research-services">Access and Research Services</a></dd>
@@ -52,22 +53,25 @@ Common terms used within the work of Metadata Services
 <dd><a href="#archivesspace">ArchivesSpace</a></dd>
 
 <dt>CAD</dt>
-<dd><a href="#collections-access-discovery">Collections Access and Discovery</a> (deprecated)</dd>
+<dd>Collections Access and Discovery (deprecated, now <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a>)</dd>
   
 <dt>CATNYP</dt>
-<dd>Catalog of The New York Public Library (deprecated), now <a href="#research-catalog">Research Catalog</a></dd>
+<dd>Catalog of The New York Public Library (deprecated, now <a href="#research-catalog">Research Catalog</a>)</dd>
 
+<a name="copyright-information-policy"></a>
 <dt>CIP</dt>
-<dd><a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
+<dd>Copyright and Information Policy (alternate name of <a href="#rights-clearance">Rights Clearance</a>)</dd>
 
+<a name="collection-management-system"></a>
 <dt>CMS</dt>
-<dd><a href="#collection-management-system">Collection Management System</a> (deprecated)</dd>
+<dd><a href="#collection-management-system">Collection Management System</a> (former name of <a href="#spec">SPEC</a>)</dd>
 
 <dt>CRS</dt>
 <dd><a href="#collections-research-services">Collections and Research Services</a></dd>
 
+<a name="copyright-permissions-information-policy"></a>
 <dt>CPAIP</dt>
-<dd><a href="#copyright-permissions-information-policy">Copyright, Permissions, and Information Policy</a> (deprecated)</dd>
+<dd>Copyright, Permissions, and Information Policy (deprecated, see <a href="#rights-clearance">Rights Clearance</a>)</dd>
 
 <dt>DACS</dt>
 <dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
@@ -79,7 +83,7 @@ Common terms used within the work of Metadata Services
 <dd>digital asset management (or digital asset manager)</dd>
 
 <dt>DAMS</dt>
-<dd>digital asset management system</dd>
+<dd>digital asset management system (can also reference <a href="#nypl-dams">NYPL DAMS</a>)</dd>
 
 <dt>DAMA</dt>
 <dd><a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
@@ -93,17 +97,20 @@ Common terms used within the work of Metadata Services
 <dt>DCO</dt>
 <dd><a href="#digital-collections-operations">Digital Collections Operations</a></dd>
 
+<a name="digital-collections-services"></a>
 <dt>DCS</dt>
-<dd><a href="#digital-collections-services">Digital Collections Services</a> (deprecated)</dd>
+<dd>Digital Collections Services (deprecated, see <a href="#digital-asset-management-access">Digital Asset Management and Access</a>)</dd>
 
+<a name="digital-research"></a>
 <dt>DIRES</dt>
-<dd><a href="#digital-research">Digital Research</a> (deprecated)</dd>
+<dd><a href="#digital-research">Digital Research</a> (deprecated, see <a href="#digital-collections-operations">Digital Collections Operations</a>)</dd>
 
 <dt>DIS</dt>
 <dd><a href="#digital-imaging-services">Digital Imaging Services</a></dd>
 
+<a name="digital-imaging-unit"></a>
 <dt>DIU</dt>
-<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a> (deprecated)</dd>
+<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a> (deprecated, now <a href="#digital-imaging-services">Digital Imaging Services</a>)</dd>
 
 <dt>EAD</dt>
 <dd><a href="#encoded-archival-description">Encoded Archival Description</a></dd>
@@ -156,8 +163,9 @@ Common terms used within the work of Metadata Services
 <dt>MARC</dt>
 <dd><a href="#machine-readable-cataloging">MAchine-Readable Cataloging</a></dd>
 
+<a name="migration-of-records-and-cataloging-consolidation"></a>
 <dt>MaRCC</dt>
-<dd><a href="#migration-of-records-and-cataloging-consolidation">Migration of Records and Cataloging Consolidation</a></dd>
+<dd>Migration of Records and Cataloging Consolidation <a href="https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/migration-of-records-cataloging-consolidation-marcc-project-wallach-division">↗</a></dd>
 
 <dt>MMS</dt>
 <dd><a href="#metadata-management-system">Metadata Management System</a></dd>
@@ -165,32 +173,38 @@ Common terms used within the work of Metadata Services
 <dt>MODS</dt>
 <dd><a href="#metadata-object-description-schema">Metadata Object Description Schema</a></dd>
 
+<a name="media-preservation"></a>
 <dt>MPL</dt>
-<dd><a href="#media-preservation-labs">Media Preservation Labs</a></dd>
+<dd>Media Preservation Labs (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
 
 <dt>MPS</dt>
-<dd>Media Preservation Services</dd>
+<dd>Media Preservation Services (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
 
 <dt>MSU</dt>
-<dd>Metadata Services Unit, see <a href="#metadata-services">Metadata Services</a></dd>
+<dd>Metadata Services Unit (deprecated, now <a href="#metadata-services">Metadata Services</a>)</dd>
 
 <dt>NYPL</dt>
 <dd>New York Public Library</dd>
+
+<dt>NYPL DAMS</dt>
+<dd><a href="#nypl-dams">New York Public Library Digital Asset Management System</a></dd>
 
 <dt>OL</dt>
 <dd><a href="#orange-logic">Orange Logic</a></dd>
 
 <dt>PAMI</dt>
-<dd><a href="#preservation-of-audio-moving-image">Preservation of Audio and Moving Image</a> (deprecated)</dd>
+<dd>Preservation of Audio and Moving Image (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
 
+<a name="preservation-collections-processing"></a>
 <dt>PCP</dt>
-<dd><a href="#preservation-collections-processing">Preservation and Collections Processing</a> (deprecated)</dd>
+<dd><a href="#preservation-collections-processing">Preservation and Collections Processing</a> (deprecated, teams now distributed throughout <a href="#collections-research-services">Collections and Research Services</a>)</dd>
 
 <dt>PO</dt>
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
 
+<a name="public-programs-exhibitions-research-libraries"></a>
 <dt>PPERL</dt>
-<dd><a href="#public-programs-exhibitions-research-libraries">Public Programs and Exhibitions, Research Libraries</a></dd>
+<dd>Public Programs and Exhibitions, Research Libraries <a href="https://lair.nypl.org/-/departments/library-sites-and-services/research-libraries/exhibitions">↗</a></dd>
 
 <dt>PPOC</dt>
 <dd><a href="#prints-photographs-online-catalog">Prints & Photographs Online Catalog</a> (deprecated)</dd>
@@ -198,11 +212,13 @@ Common terms used within the work of Metadata Services
 <dt>PRS</dt>
 <dd><a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
   
+<a name="preservation-treatment"></a>
 <dt>PTM</dt>
-<dd><a href="#preservation-treatment">Preservation TreatMent</a> (deprecated)</dd>
+<dd>Preservation TreatMent (deprecated, now Conservation <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a>)</dd>
 
+<a name="rare-materials-cataloging"></a>
 <dt>RMC</dt>
-<dd>Rare Materials Cataloging</dd>
+<dd>Rare Materials Cataloging <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging">↗</a></dd>
 
 <dt>RDA</dt>
 <dd><a href="#resource-description-access">Resource Description and Access</a></dd>
@@ -214,14 +230,15 @@ Common terms used within the work of Metadata Services
 <dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "saz-bee")</dd>
 
 <dt>SCC</dt>
-<dd>Special Collections Cataloging (deprecated)</dd>
+<dd>Special Collections Cataloging (deprecated, now ><a href="#rare-materials-cataloging">Rare Materials Cataloging</a>)</dd>
 
+<a name="special-collections-processing"></a>
 <dt>SCP</dt>
-<dd><a href="#special-collections-processing">Special Collections Processing</a></dd>
+<dd>Special Collections Processing <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing">↗</a></dd>
 
 <dt>SCT</dt>
-<dd><a href="#special-collections-transfer">Special Collections Transport</a> (sometimes pronounced "scoot")</dd>
-  
+<dd><a href="#special-collections-transfer">Special Collections Transfer</a> (sometimes pronounced "scoot")</dd>
+
 <dt>SNFL</dt>
 <dd><a href="#stavros-niarchos-foundation-library">Stavros Niarchos Foundation Library</a> (sometimes pronounced "sniffle")</dd>
 
@@ -237,8 +254,12 @@ Common terms used within the work of Metadata Services
 <dt>UPE</dt>
 <dd>Unified Patron Experience</dd>
 
+<dt>URE</dt>
+<dd>Unified Research Experience</dd>
+
+<a name="uniform-resource-identifier"></a>
 <dt>URI</dt>
-<dd><a href="#uniform-resource-identifier">Uniform Resource Identifier</a></dd>
+<dd>Uniform Resource Identifier <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">↗</a></dd>
 
 <dt>UUID</dt>
 <dd><a href="#universally-unique-identifier">universally unique identifier</a></dd>
@@ -257,11 +278,7 @@ Common terms used within the work of Metadata Services
 
 <a name="access-research-services"></a>
 <dt>Access and Research Services</dt>
-<dd>supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAP</a> shared collection</dd>
-
-<a name="anglo-american-cataloging-rules"></a>
-<dt>Anglo-American Cataloging Rules</dt>
-<dd>an international library cataloging standard replaced by <a href="#resource-description-access">Resource Description and Access</a></dd>
+<dd>department within <a href="#collections-research-services">Collections and Research Services</a> that supports access to the research collections, including Aeon, e-resources discovery, MaRLI, and the <a href="#research-collections-preservation-consortium">ReCAP</a> shared collection</dd>
 
 <a name="archives-portal"></a>
 <dt>Archives Portal</dt>
@@ -279,41 +296,21 @@ Common terms used within the work of Metadata Services
 <dt>Art & Architecture Thesaurus</dt>
 <dd>controlled vocabulary for describing and indexing visual arts and architecture that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Getty Research Institute</dd>
 
+<a name="audio-moving-image-preservation"></a>
+<dt>Audio & Moving Image Preservation</dt>
+<dd>team within <a href="#digital-reformatting">Digital Reformatting</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd
+
 <a name="bnumber"></a>
 <dt>bnumber</dt>
 <dd>bibliographic number, the primary identifier for a library catalog record used in <a href="#sierra">Sierra</a></dd>
 
-<a name="classic-catalog"></a>
-<dt>Classic Catalog</dt>
-<dd>former name of the <a href="#legacy-catalog">Legacy Catalog</a></dd>
-
-<a name="collection-management-system"></a>
-<dt>Collection Management System</dt>
-<dd>former name of <a href="#spec">SPEC</a></dd>
-
-<a name="collections-access-discovery"></a>
-<dt>Collections Access and Discovery</dt>
-<dd>former department within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a></dd>
-  
 <a name="collections-research-services"></a>
 <dt>Collections and Research Services</dt>
 <dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Services</dd>
 
-<a name="conservation"></a>
-<dt>Conservation</dt>
-<dd>department within Preservation that supports the collections of the Research Centers and provides conservation assessment, specialized rehousing, treatment, research, training, and outreach</dd>
-  
-<a name="copyright-information-policy"></a>
-<dt>Copyright and Information Policy</dt>
-<dd>department within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</dd>
-
-<a name="copyright-permissions-information-policy"></a>
-<dt>Copyright, Permissions, and Information Policy</dt>
-<dd>former name of <a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
-
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
-<dd>former name of team within the Library's Digital Product Team centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and the <a href="#archives-portal">Archives Portal</a>; now the <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a> pod within the Library's Researchers team in Digital</dd>
+<dd>former name of <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a> pod</dd>
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
@@ -325,11 +322,11 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-asset-management-access"></a>
 <dt>Digital Asset Management and Access</dt>
-<dd>department within <a href="#digital-collections-operatoins">Digital Collections Operations</a> dedicated to management of and access to digital assets in platforms such as Digital Collections; comprised of a Digital Asset Manager, <a href="#copyright-information-policy">Copyright and Information Policy</a>, <a href="#metadata-services">Metadata Services</a>, and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
+<dd>department within <a href="#digital-collections-operatoins">Digital Collections Operations</a> dedicated to management of and access to digital assets in platforms such as Digital Collections; comprised of a Digital Asset Manager, <a href="#rights-clearance">Rights Clearance</a>, <a href="#metadata-services">Metadata Services</a>, and <a href="#permissions-reproduction-services">Permissions and Reproduction Services</a></dd>
 
 <a name="digital-asset-preservation-access"></a>
 <dt>Digital Asset Preservation and Access</dt>
-<dd>major initiative within the Research Libraries; also the name of a pod within the Library's Researchers team in Digital focused on this project</dd>
+<dd>major strategic initiative within the Research Libraries; also the name of a pod within the Library's Researchers team in Digital focused on this project centered on staff tools, digital rights management, and patron access to our unique digital collections including the <a href="#metadata-management-system">Metadata Management System</a>, <a href="#digital-collections">Digital Collections</a>, and the <a href="#archives-portal">Archives Portal</a></dd>
 
 <a name="digital-collections"></a>
 <dt>Digital Collections</dt>
@@ -337,11 +334,7 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-collections-operations"></a>
 <dt>Digital Collections Operations</dt>
-<dd>department dedicated to digital asset management from preservation to access comprised of <a href="#digital-asset-management-access">Digital Asset Management and Access</a>, Digital Preservation, and Digital Reformatting</dd>
-
-<a name="digital-collections-services"></a>
-<dt>Digital Collections Services</dt>
-<dd>former name of <a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
+<dd>department within <a href="#collections-research-services">Collections and Research Services</a> dedicated to digital asset management from preservation to access comprised of <a href="#digital-asset-management-access">Digital Asset Management and Access</a>, <a href="#digital-reformatting">Digital Reformatting</a>, and <a href="#digital-preservation">Digital Preservation</a></dd>
 
 <a name="digital-gallery"></a>
 <dt>Digital Gallery</dt>
@@ -349,19 +342,15 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-imaging-services"></a>
 <dt>Digital Imaging Services</dt>
-<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> dedicated to creating high-quality digital surrogates of collection materials made available online through <a href="#digital-collections">Digital Collections</a> or directly through individual requests; primary office located at the <a href="#library-services-center">Library Services Center</a>, with work also taking place at specific <a href="#research-libraries">Research Libraries</a></dd>
-
-<a name="digital-imaging-unit"></a>
-<dt>Digital Imaging Unit</dt>
-<dd>former name of <a href="#digital-imaging-services">Digital Imaging Services</a></dd>
+<dd>team within <a href="#digital-reformatting">Digital Reformatting</a> dedicated to creating high-quality digital surrogates of collection materials made available online through <a href="#digital-collections">Digital Collections</a> or directly through individual requests; primary office located at the <a href="#library-services-center">Library Services Center</a>, with work also taking place at specific <a href="#research-libraries">Research Libraries</a></dd>
 
 <a name="digital-preservation"></a>
 <dt>Digital Preservation</dt>
 <dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
-<a name="digital-research"></a>
-<dt>Digital Research</dt>
-<dd>former department of <a href="#research-libraries">Research Libraries</a> comprised of teams that are now part of <a href="#digital-collections-operations">Digital Collections Operations</a></dd>
+<a name="digital-reformatting"></a>
+<dt>Digital Reformatting</dt>
+<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that ensures the long-term preservation of digital research collections including born-digital archives, digitized audio and moving image material, born-digital recordings of performances, and digitized images; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
 <a name="early-access-viewer"></a>
 <dt>Early Access Viewer</dt>
@@ -447,18 +436,6 @@ Common terms used within the work of Metadata Services
 <dt>Media Ingest</dt>
 <dd>name of workflow to stage digitized audio and moving image for preservation, description, and access</dd>
 
-<a name="media-preservation"></a>
-<dt>Media Preservation</dt>
-<dd>umbrella name for <a href="#media-preservation-labs">Media Preservation Labs</a> and <a href="#media-preservation-services">Media Preservation Services</a></dd>
-
-<a name="media-preservation-labs"></a>
-<dt>Media Preservation Labs</dt>
-<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
-
-<a name="media-preservation-services"></a>
-<dt>Media Preservation Services</dt>
-<dd>department within <a href="#digital-collections-operations">Digital Collections Operations</a> that supports preservation activities by managing outsourced digitization, audiovisual media conservation, and digital asset quality control and migration; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
-
 <a name="metadata-management-system"></a>
 <dt>Metadata Management System</dt>
 <dd>the Library's browser-based interface for creating and managing metadata, rights profiles, and digital assets for <a href="#digital-collections">Digital Collections</a>; accessible at <a href="https://metadata.nypl.org">metadata.nypl.org</a>; powered by <a href="#mms-database">MMS Database</a></dd>
@@ -471,10 +448,6 @@ Common terms used within the work of Metadata Services
 <dt>Metadata Services</dt>
 <dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> that improves the discovery of library resources and strengthens data interoperability across the library; primary office located at the <a href="#library-services-center">Library Services Center</a></dd>
 
-<a name="migration-of-records-and-cataloging-consolidation"></a>
-<dt>Migration of Records and Cataloging Consolidation</dt>
-<dd>project to migrate Miriam and Ira D. Wallach Division of Art, Prints, and Photographs records previously managed in <a href="#the-museum-system">The Museum System</a> into <a href="#sierra">Sierra</a></dd>
-
 <a name="mms-database"></a>
 <dt>MMS Database</dt>
 <dd><a href="#structured-query-language">SQL</a> database that powers the <a href="#metadata-management-system">Metadata Management System</a></dd>
@@ -482,6 +455,10 @@ Common terms used within the work of Metadata Services
 <a name="mms-qa"></a>
 <dt>MMS QA</dt>
 <dd>quality assurance version of the <a href="#metadata-management-system">Metadata Management System</a> that functions as a non-production test environment; accessible at <a href="https://qa-metadata.nypl.org/">qa-metadata.nypl.org</a></dd>
+
+<a name="nypl-dams"></a>
+<dt>NYPL DAMS</dt>
+<dd>digital asset management system being implemented by the Library; underlying system built by <a href="#orange-logic">Orange Logic</a></dd>
 
 <a name="orange-logic"></a>
 <dt>Orange Logic</dt>
@@ -495,14 +472,6 @@ Common terms used within the work of Metadata Services
 <dt>Photo Order</dt>
 <dd>alternate name of <a href="#public-order">Public Order</a></dd>
 
-<a name="preservation-collections-processing"></a>
-<dt>Preservation and Collections Processing</dt>
-<dd>former department within <a href="#collections-research-services">Collections and Research Services</a> comprised of teams now in Preservation, Special Collections Services, <a href="digital-collections-operations">Digital Collections Operations</a>, and <a href="#access-research-services">Access and Research Services</a></dd>
-
-<a name="preservation-of-audio-moving-image"></a>
-<dt>Preservation of Audio and Moving Image</dt>
-<dd>former <a href="#digital-research">Digital Research</a> department, now divided into <a href="#media-preservation-services">Media Preservation Services</a> and <a href="#media-preservation-labs">Media Preservation Labs</a></dd>
-
 <a name="prints-photographs-online-catalog"></a>
 <dt>Prints & Photographs Online Catalog</dt>
 <dd>former website for the collections of the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously accessible at <a href="https://wallachprintsandphotos.nypl.org/">wallachprintsandphotos.nypl.org</a>; used <a href="#the-museum-system">The Museum System</a> as its backend database</dd>
@@ -510,14 +479,6 @@ Common terms used within the work of Metadata Services
 <a name="public-order"></a>
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
-
-<a name="public-programs-exhibitions-research-libraries"></a>
-<dt>Public Programs and Exhibitions, Research Libraries</dt>
-<dd>department responsible for exhibitions, design, public programming, and production across all Research Libraries locations</dd>
-
-<a name="preservation-treatment"></a>
-<dt>Preservation TreatMent</dt>
-<dd>former name of <a href="#conservation">Conservation</a></dd>
 
 <a name="preservica"></a>
 <dt>Preservica</dt>
@@ -545,7 +506,7 @@ Common terms used within the work of Metadata Services
   
 <a name="rights-clearance"></a>
 <dt>Rights Clearance</dt>
-<dd>see <a href="#copyright-information-policy">Copyright and Information Policy</a></dd>
+<dd>department within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</a></dd>
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
@@ -559,22 +520,17 @@ Common terms used within the work of Metadata Services
 <dt>SPEC (SPEcial Collections)</dt>
 <dd>Filemaker Pro database used by the <a href="#preservation-collections-processing">Preservation and Collections Processing</a> department to manage <a href="#research-libraries">Research Library</a> collections</dd>
 
-<a name="special-collections-processing"></a>
-<dt>Special Collections Processing</dt>
-<dd>department within <a href="#collections-research-services">Collections and Research Services</a> that promotes access to the Library's most distinctive collections by describing rare and unique materials and preparing them for preservation and use</dd>
-
 <a name="special-collections-transfer"></a>
 <dt>Special Collections Transfer</dt>
 <dd>program of the Registrar's Office that oversees the packing and transport of collection materials between the research centers and the Library Services Center for digitization, conservation treatment, exhibition preparation, and cataloging</dd>
   
-<a name="stavros-niarchos-foundaiton-library"></a>
+<a name="stavros-niarchos-foundation-library"></a>
 <dt>Stavros Niarchos Foundation Library</dt>
 <dd>the Library's largest circulating branch that is sometimes used for staff orientation and events; located at the former site of the Mid-Manhattan Library</dd>
 
 <a name="stephen-a-schwarzman-building"></a>
 <dt>Stephen A. Schwarzman Building</dt>
-<dd>
-the Library's flagship location and home to the <a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a>; sometimes referred to as the "main branch" or "central library"</dd>
+<dd>the Library's flagship location and home to the <a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a>; sometimes referred to as the "main branch" or "central library"</dd>
 
 <a name="structured-query-language"></a>
 <dt>Structured Query Language</dt>
@@ -587,10 +543,6 @@ the Library's flagship location and home to the <a href="#humanities-and-social-
 <a name="the-repo"></a>
 <dt>The Repo</dt>
 <dd>colloquial name used by <a href="#digital-collections-services">Digital Collections Services</a> describing the collection of software and services for storing, describing, and providing access to digital assets</dd>
-
-<a name="uniform-resource-identifier"></a>
-<dt>Uniform Resource Identifier</dt>
-<dd>unique sequence of characters that identifies a resource used by web technologies; URLs—including those for entities in controlled vocabularies—are examples of URIs</dd>
 
 <a name="universally-unique-identifier"></a>
 <dt>universally unique identifier</dt>
