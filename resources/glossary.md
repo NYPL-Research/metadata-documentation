@@ -227,7 +227,7 @@ Common terms used within the work of Metadata Services
 <a name="preservation-treatment"></a>
 <dt>PTM</dt>
 <dd>Preservation TreatMent (deprecated)
-<div style="margin-left: 10px; font-style: italic;">see Conservation <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a></div></dd>
+<div style="margin-left: 10px;"><em>see Conservation</em> <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a></div></dd>
 
 <a name="rare-materials-cataloging"></a>
 <dt>RMC</dt>
@@ -575,6 +575,7 @@ Common terms used within the work of Metadata Services
 - [Identifier](/metadata-documentation/metadata/element/identifier/) for explanation of each type of identifier used in the Metadata Management System
 - [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
 - [NYPL Acronyms 🔒](https://docs.google.com/spreadsheets/d/1KQ102LS0tdOwiqoSssYJkx9m-QIZco-MIdnUeTDGbVs/edit) for a list of acronyms that are used at the New York Public Library
-- [Introduction to Metadata › Glossary](https://www.getty.edu/publications/intrometadata/glossary/) for definitions of general metadata concepts from a textbook published by Getty Publications
 - [DAM Glossary Index](https://digitalassetmanagementnews.org/glossary/) for definitions of general digital asset management concepts from DAM News
+- [Introduction to Metadata › Glossary](https://www.getty.edu/publications/intrometadata/glossary/) for definitions of general metadata concepts from a textbook published by Getty Publications
 - [Metadata Glossary for Libraries, Archives & More](https://docs.google.com/document/d/1dhpSozuRRW4jLdVfgH0_g-Q7p-cBd82lXxQsHLIqr4k/edit) for definitions of general metadata concepts from Robin Fay
+- [Dictionary of Archives Terminology](https://dictionary.archivists.org/)
