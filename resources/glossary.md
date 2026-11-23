@@ -320,11 +320,11 @@ Common terms used within the work of Metadata Services
 
 <a name="collections-research-services"></a>
 <dt>Collections and Research Services</dt>
-<dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Services</dd>
+<dd>department within <a href="#research-libraries">Research Libraries</a> comprised of Collection Development, <a href="#access-research-services">Access and Research Services</a>, <a href="digital-collections-operations">Digital Collections Operations</a>, Preservation, and Special Collections Processing</dd>
 
 <a name="dam-portfolio"></a>
 <dt>DAM Portfolio</dt>
-<dd>former name of <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a> pod</dd>
+<dd>former name of <a href="#digital-asset-preservation-access">Digital Asset Preservation and Access</a> pod</dd>
 
 <a name="describing-archives-a-content-standard"></a>
 <dt>Describing Archives: A Content Standard</dt>
@@ -332,7 +332,7 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-asset-infrastructure-renewal"></a>
 <dt>Digital Asset Infrastructure Renewal</dt>
-<dd>project related to <a href="#digital-asset-preservation-and-access">Digital Asset Preservation and Access</a></dd>
+<dd>project related to <a href="#digital-asset-preservation-access">Digital Asset Preservation and Access</a></dd>
 
 <a name="digital-asset-management-access"></a>
 <dt>Digital Asset Management and Access</dt>
@@ -576,6 +576,7 @@ Common terms used within the work of Metadata Services
 - [External Links](/metadata-documentation/resources/external/) for links to documentation from some of the Library divisions, departments, and units listed above
 - [NYPL Acronyms 🔒](https://docs.google.com/spreadsheets/d/1KQ102LS0tdOwiqoSssYJkx9m-QIZco-MIdnUeTDGbVs/edit) for a list of acronyms that are used at the New York Public Library
 - [DAM Glossary Index](https://digitalassetmanagementnews.org/glossary/) for definitions of general digital asset management concepts from DAM News
+- [Orange Logic Glossary](https://link.orangelogic.com/CMS4/Permalinks/2P7YOH9X81R4?LinkToken=fjJ-b25mY3BPeUcwajJzNXFxeE1tSFQxQ2Z2ZlZXbnZTWkhDMUt1RGI4OUlvcWFISHdyVXltOXM3UTkrOEpKdCt5eXZRazNuTExjMk9VakdEN3hkVldoSXBwK3FMTWoyL0k1ZnZHNkY1N0RIMjFOVmpVZFVpYkdaS2pGMm5xMEIyakRITGUrMURrNXUwanV4NjNvbkt1WTdNWm15SXZqc29tQXRDNFY5QlgvT0pmQmxxQURGUXpodzAvSi83dlZtSWZSN3pucmZpT3hmKzZPMWxQTU13S3pTcFQ4Nlh6RGsrU0Y3Mk5BRE9VZkx4U1YyYmVxSTErSUtlK1pXSUFHZGN4TmtOb0JSdDRoZkUrSVBwclowbmFubXVOLzBMU0V0aDRiZUJ6blRNQWlOb2MyS0cwdE1IOTExOUNKVzVEa1Qxbkl4SzIzejZ2anFzZXY0RFlsNnBtamhuVkVPWDlSdmJZd29JRHlCenJZVy9Id2xvM2h5Z3E1NitBQk9qc0VEQmd6aGE2dXlSdXBDR0ZWK29Xeno4WU9XL2ZTUkhmcThLZk9XdG9yY1BJbzlYNGE0SEtPakdvVG5SREpXdmdvSzkvMTI4eWFUQWF5dEhseDY1Vk9uL2N6ZTE0R1ZILzdKSVJkak9Lazk4aGE3WXlmWDQrdUVHTDlzTXdMbjJGSVBZblV3UFB5cVhDUFZqemhHRW1NTytycVJ4OEZDRUliSDc3azVjMXpBbVRhSGhOT0RWYUU4NkQ2ZTVDUC9TeDVHZ3NXaC80OS8vYmFheGR3b20wRW5wUGx0SFZHTXVTTllGTFU2MGJyN05EbGh6Z3g3NUhGdnBIWFVGNUdFN01zZEVBYWxDMDV2UWxuMFVwNDAydkd2K2dlWklXMmp1eXRQNkxHbzhsalZUcHdqLzVCUkpzUzZBRTAxbmRaNzJlL0RUdzVDeWtqeUhMM1hUbi9XeXFVUDcxSE8wcFcvSmF0enFXUUVsZ1hpZ3VEZXZYZ3kxazNIYWxIWnZLaVFYaWdTOCtiWTZNVldDcG41bVMwUWNWYSswckF4M1JzNGdaMTQrY2s1bG9vcG40amFlRS9XZz09) for definitions of common DAM terms and essential Orange Logic features
 - [Introduction to Metadata › Glossary](https://www.getty.edu/publications/intrometadata/glossary/) for definitions of general metadata concepts from a textbook published by Getty Publications
 - [Metadata Glossary for Libraries, Archives & More](https://docs.google.com/document/d/1dhpSozuRRW4jLdVfgH0_g-Q7p-cBd82lXxQsHLIqr4k/edit) for definitions of general metadata concepts from Robin Fay
 - [Dictionary of Archives Terminology](https://dictionary.archivists.org/)
