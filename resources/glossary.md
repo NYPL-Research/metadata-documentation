@@ -34,7 +34,7 @@ Common terms used within the work of Metadata Services
 <dd>Audio & Moving Image Description <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging/audio-moving-image-description">↗</a></dd>
 
 <dt>AMIP</dt>
-<dd><a href="#audio-moving-image-preservation">Audio & Moving Image Preservation</a></a></dd>
+<dd><a href="#audio-moving-image-preservation">Audio & Moving Image Preservation</a></dd>
 
 <a name="archival-processing"></a>
 <dt>AP</dt>
@@ -83,7 +83,7 @@ Common terms used within the work of Metadata Services
 <dd>digital asset management (or digital asset manager)</dd>
 
 <dt>DAMS</dt>
-<dd>digital asset management system (can also reference <a href="#nypl-dams">NYPL DAMS</a>)</dd>
+<dd>digital asset management system (can also refer to <a href="#nypl-dams">NYPL DAMS</a>)</dd>
 
 <dt>DAMA</dt>
 <dd><a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
