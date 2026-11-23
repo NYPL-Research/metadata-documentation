@@ -298,7 +298,7 @@ Common terms used within the work of Metadata Services
 
 <a name="audio-moving-image-preservation"></a>
 <dt>Audio & Moving Image Preservation</dt>
-<dd>team within <a href="#digital-reformatting">Digital Reformatting</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd
+<dd>team within <a href="#digital-reformatting">Digital Reformatting</a> that digitizes magnetic, optical, and grooved audio and video recordings; primary office located at the <a href="#library-for-the-performing-arts">Library for the Performing Arts</a></dd>
 
 <a name="bnumber"></a>
 <dt>bnumber</dt>
