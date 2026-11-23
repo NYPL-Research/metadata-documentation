@@ -63,7 +63,8 @@ Common terms used within the work of Metadata Services
 
 <a name="copyright-information-policy"></a>
 <dt>CIP</dt>
-<dd>Copyright and Information Policy (alternate name of <a href="#rights-clearance">Rights Clearance</a>)</dd>
+<dd>Copyright and Information Policy
+<div style="margin-left: 10px; font-style: italic;">see <a href="#rights-clearance">Rights Clearance</a></div></dd>
 
 <a name="collection-management-system"></a>
 <dt>CMS</dt>
@@ -579,4 +580,4 @@ Common terms used within the work of Metadata Services
 - [Orange Logic Glossary](https://link.orangelogic.com/CMS4/Permalinks/2P7YOH9X81R4?LinkToken=fjJ-b25mY3BPeUcwajJzNXFxeE1tSFQxQ2Z2ZlZXbnZTWkhDMUt1RGI4OUlvcWFISHdyVXltOXM3UTkrOEpKdCt5eXZRazNuTExjMk9VakdEN3hkVldoSXBwK3FMTWoyL0k1ZnZHNkY1N0RIMjFOVmpVZFVpYkdaS2pGMm5xMEIyakRITGUrMURrNXUwanV4NjNvbkt1WTdNWm15SXZqc29tQXRDNFY5QlgvT0pmQmxxQURGUXpodzAvSi83dlZtSWZSN3pucmZpT3hmKzZPMWxQTU13S3pTcFQ4Nlh6RGsrU0Y3Mk5BRE9VZkx4U1YyYmVxSTErSUtlK1pXSUFHZGN4TmtOb0JSdDRoZkUrSVBwclowbmFubXVOLzBMU0V0aDRiZUJ6blRNQWlOb2MyS0cwdE1IOTExOUNKVzVEa1Qxbkl4SzIzejZ2anFzZXY0RFlsNnBtamhuVkVPWDlSdmJZd29JRHlCenJZVy9Id2xvM2h5Z3E1NitBQk9qc0VEQmd6aGE2dXlSdXBDR0ZWK29Xeno4WU9XL2ZTUkhmcThLZk9XdG9yY1BJbzlYNGE0SEtPakdvVG5SREpXdmdvSzkvMTI4eWFUQWF5dEhseDY1Vk9uL2N6ZTE0R1ZILzdKSVJkak9Lazk4aGE3WXlmWDQrdUVHTDlzTXdMbjJGSVBZblV3UFB5cVhDUFZqemhHRW1NTytycVJ4OEZDRUliSDc3azVjMXpBbVRhSGhOT0RWYUU4NkQ2ZTVDUC9TeDVHZ3NXaC80OS8vYmFheGR3b20wRW5wUGx0SFZHTXVTTllGTFU2MGJyN05EbGh6Z3g3NUhGdnBIWFVGNUdFN01zZEVBYWxDMDV2UWxuMFVwNDAydkd2K2dlWklXMmp1eXRQNkxHbzhsalZUcHdqLzVCUkpzUzZBRTAxbmRaNzJlL0RUdzVDeWtqeUhMM1hUbi9XeXFVUDcxSE8wcFcvSmF0enFXUUVsZ1hpZ3VEZXZYZ3kxazNIYWxIWnZLaVFYaWdTOCtiWTZNVldDcG41bVMwUWNWYSswckF4M1JzNGdaMTQrY2s1bG9vcG40amFlRS9XZz09) for definitions of common DAM terms and essential Orange Logic features
 - [Introduction to Metadata › Glossary](https://www.getty.edu/publications/intrometadata/glossary/) for definitions of general metadata concepts from a textbook published by Getty Publications
 - [Metadata Glossary for Libraries, Archives & More](https://docs.google.com/document/d/1dhpSozuRRW4jLdVfgH0_g-Q7p-cBd82lXxQsHLIqr4k/edit) for definitions of general metadata concepts from Robin Fay
-- [Dictionary of Archives Terminology](https://dictionary.archivists.org/)
+- [Dictionary of Archives Terminology](https://dictionary.archivists.org/) for definitions of archival lexicon maintained by the Society of American Archivists
