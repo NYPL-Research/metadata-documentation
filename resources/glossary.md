@@ -58,7 +58,8 @@ Common terms used within the work of Metadata Services
 <div style="margin-left: 10px; font-style: italic;">see <a href="digital-collections-operations">Digital Collections Operations</a> and <a href="#access-research-services">Access and Research Services</a></div></dd>
   
 <dt>CATNYP</dt>
-<dd>Catalog of The New York Public Library (deprecated, now <a href="#research-catalog">Research Catalog</a>)</dd>
+<dd>Catalog of The New York Public Library (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#research-catalog">Research Catalog</a></div></dd>
 
 <a name="copyright-information-policy"></a>
 <dt>CIP</dt>
@@ -73,7 +74,8 @@ Common terms used within the work of Metadata Services
 
 <a name="copyright-permissions-information-policy"></a>
 <dt>CPAIP</dt>
-<dd>Copyright, Permissions, and Information Policy (deprecated, see <a href="#rights-clearance">Rights Clearance</a>)</dd>
+<dd>Copyright, Permissions, and Information Policy (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#rights-clearance">Rights Clearance</a></div></dd>
 
 <dt>DACS</dt>
 <dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
@@ -101,18 +103,21 @@ Common terms used within the work of Metadata Services
 
 <a name="digital-collections-services"></a>
 <dt>DCS</dt>
-<dd>Digital Collections Services (deprecated, see <a href="#digital-asset-management-access">Digital Asset Management and Access</a>)</dd>
+<dd>Digital Collections Services (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#digital-asset-management-access">Digital Asset Management and Access</a></div></dd>
 
 <a name="digital-research"></a>
 <dt>DIRES</dt>
-<dd><a href="#digital-research">Digital Research</a> (deprecated, see <a href="#digital-collections-operations">Digital Collections Operations</a>)</dd>
+<dd><a href="#digital-research">Digital Research</a> (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#digital-collections-operations">Digital Collections Operations</a></div></dd>
 
 <dt>DIS</dt>
 <dd><a href="#digital-imaging-services">Digital Imaging Services</a></dd>
 
 <a name="digital-imaging-unit"></a>
 <dt>DIU</dt>
-<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a> (deprecated, now <a href="#digital-imaging-services">Digital Imaging Services</a>)</dd>
+<dd><a href="#digital-imaging-unit">Digital Imaging Unit</a> (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#digital-imaging-services">Digital Imaging Services</a></div></dd>
 
 <dt>EAD</dt>
 <dd><a href="#encoded-archival-description">Encoded Archival Description</a></dd>
@@ -177,13 +182,16 @@ Common terms used within the work of Metadata Services
 
 <a name="media-preservation"></a>
 <dt>MPL</dt>
-<dd>Media Preservation Labs (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
+<dd>Media Preservation Labs (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a></div></dd>
 
 <dt>MPS</dt>
-<dd>Media Preservation Services (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
+<dd>Media Preservation Services (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a></div></dd>
 
 <dt>MSU</dt>
-<dd>Metadata Services Unit (deprecated, now <a href="#metadata-services">Metadata Services</a>)</dd>
+<dd>Metadata Services Unit (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#metadata-services">Metadata Services</a></div></dd>
 
 <dt>NYPL</dt>
 <dd>New York Public Library</dd>
@@ -195,11 +203,13 @@ Common terms used within the work of Metadata Services
 <dd><a href="#orange-logic">Orange Logic</a></dd>
 
 <dt>PAMI</dt>
-<dd>Preservation of Audio and Moving Image (deprecated, now <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a>)</dd>
+<dd>Preservation of Audio and Moving Image (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="audio-moving-image-preservation">Audio & Moving Image Preservation</a></div></dd>
 
 <a name="preservation-collections-processing"></a>
 <dt>PCP</dt>
-<dd><a href="#preservation-collections-processing">Preservation and Collections Processing</a> (deprecated, teams now distributed throughout <a href="#collections-research-services">Collections and Research Services</a>)</dd>
+<dd><a href="#preservation-collections-processing">Preservation and Collections Processing</a> (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see departments within <a href="#collections-research-services">Collections and Research Services</a></div></dd>
 
 <dt>PO</dt>
 <dd><a href="#public-order">Public Order</a> (or Photo Order)</dd>
@@ -216,7 +226,8 @@ Common terms used within the work of Metadata Services
   
 <a name="preservation-treatment"></a>
 <dt>PTM</dt>
-<dd>Preservation TreatMent (deprecated, now Conservation <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a>)</dd>
+<dd>Preservation TreatMent (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see Conservation <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a></div></dd>
 
 <a name="rare-materials-cataloging"></a>
 <dt>RMC</dt>
@@ -232,7 +243,8 @@ Common terms used within the work of Metadata Services
 <dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "saz-bee")</dd>
 
 <dt>SCC</dt>
-<dd>Special Collections Cataloging (deprecated, now ><a href="#rare-materials-cataloging">Rare Materials Cataloging</a>)</dd>
+<dd>Special Collections Cataloging (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#rare-materials-cataloging">Rare Materials Cataloging</a></div></dd>
 
 <a name="special-collections-processing"></a>
 <dt>SCP</dt>
@@ -392,7 +404,7 @@ Common terms used within the work of Metadata Services
 
 <a name="legacy-catalog"></a>
 <dt>Legacy Catalog</dt>
-<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> deprecated in June 2026</dd>
+<dd>legacy version of the public <a href="#research-catalog">Research Catalog</a> sunset in June 2026</dd>
 
 <a name="library-of-congress"></a>
 <dt>Library of Congress</dt>
