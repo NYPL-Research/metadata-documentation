@@ -27,6 +27,9 @@ Common terms used within the work of Metadata Services
 <dt>AAT</dt>
 <dd><a href="#art-architecture-thesaurus">Art & Architecture Thesaurus</a></dd>
 
+<dt>ACRES</dt>
+<dd><a href="#access-research-services">Access and Research Services</a></dd>
+
 <dt>AMI</dt>
 <dd>audio and moving image</dd>
 
@@ -40,15 +43,12 @@ Common terms used within the work of Metadata Services
 <dt>AP</dt>
 <dd>Archival Processing <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/archival-processing">↗</a></dd>
 
-<dt>APU</dt>
-<dd>Archival Processing Unit (deprecated)
-<div style="margin-left: 10px; font-style: italic;">see <a href="#archival-processing">Archival Processing</a></div></dd>
-
 <dt>API</dt>
 <dd>application programming interface <a href="https://en.wikipedia.org/wiki/API">↗</a></dd>
 
-<dt>ACRES</dt>
-<dd><a href="#access-research-services">Access and Research Services</a></dd>
+<dt>APU</dt>
+<dd>Archival Processing Unit (deprecated)
+<div style="margin-left: 10px; font-style: italic;">see <a href="#archival-processing">Archival Processing</a></div></dd>
 
 <dt>ASpace</dt>
 <dd><a href="#archivesspace">ArchivesSpace</a></dd>
@@ -71,13 +71,13 @@ Common terms used within the work of Metadata Services
 <dd>Collection Management System (deprecated)
 <div style="margin-left: 10px; font-style: italic;">see <a href="#spec">SPEC</a></div></dd>
 
-<dt>CRS</dt>
-<dd><a href="#collections-research-services">Collections and Research Services</a></dd>
-
 <a name="copyright-permissions-information-policy"></a>
 <dt>CPAIP</dt>
 <dd>Copyright, Permissions, and Information Policy (deprecated)
 <div style="margin-left: 10px; font-style: italic;">see <a href="#rights-clearance">Rights Clearance</a></div></dd>
+
+<dt>CRS</dt>
+<dd><a href="#collections-research-services">Collections and Research Services</a></dd>
 
 <dt>DACS</dt>
 <dd><a href="#describing-archives-a-content-standard">Describing Archives: A Content Standard</a></dd>
@@ -88,11 +88,11 @@ Common terms used within the work of Metadata Services
 <dt>DAM</dt>
 <dd>digital asset management (or digital asset manager)</dd>
 
-<dt>DAMS</dt>
-<dd>digital asset management system (can also refer to <a href="#nypl-dams">NYPL DAMS</a>)</dd>
-
 <dt>DAMA</dt>
 <dd><a href="#digital-asset-management-access">Digital Asset Management and Access</a></dd>
+
+<dt>DAMS</dt>
+<dd>digital asset management system (can also refer to <a href="#nypl-dams">NYPL DAMS</a>)</dd>
 
 <dt>DAPA</dt>
 <dd><a href="#digital-asset-preservation-access">Digital Asset Preservation and Access</a></dd>
@@ -127,11 +127,11 @@ Common terms used within the work of Metadata Services
 <dt>EAVie</dt>
 <dd><a href="#early-access-viewer">Early Access Viewer</a></dd>
 
-<dt>GUI</dt>
-<dd>graphical user interface</dd>
-
 <dt>GMD</dt>
 <dd><a href="#general-material-designation">general material designation</a></dd>
+
+<dt>GUI</dt>
+<dd>graphical user interface</dd>
 
 <dt>HSSRL</dt>
 <dd><a href="#humanities-and-social-sciences-research-library">Humanities and Social Sciences Research Library</a></dd>
@@ -231,15 +231,15 @@ Common terms used within the work of Metadata Services
 <dd>Preservation TreatMent (deprecated)
 <div style="margin-left: 10px;"><em>see Conservation</em> <a href="https://sites.google.com/nypl.org/specialcollections/conservation">↗</a></div></dd>
 
-<a name="rare-materials-cataloging"></a>
-<dt>RMC</dt>
-<dd>Rare Materials Cataloging <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging">↗</a></dd>
-
 <dt>RDA</dt>
 <dd><a href="#resource-description-access">Resource Description and Access</a></dd>
 
 <dt>ReCAP</dt>
 <dd><a href="#research-collections-preservation-consortium">Research Collections and Preservation Consortium</a></dd>
+
+<a name="rare-materials-cataloging"></a>
+<dt>RMC</dt>
+<dd>Rare Materials Cataloging <a href="https://sites.google.com/nypl.org/specialcollections/special-collections-processing/rare-materials-cataloging">↗</a></dd>
 
 <dt>SASB</dt>
 <dd><a href="#stephen-a-schwarzman-building">Stephen A. Schwarzman Building</a> (sometimes pronounced "saz-bee")</dd>
@@ -424,13 +424,13 @@ Common terms used within the work of Metadata Services
 <dt>Library of Congress Subject Headings</dt>
 <dd>controlled vocabulary of subject headings (topical, chronological, geographic, et al.) that can be used in the <a href="/metadata-documentation/metadata/element/subject/">Subject</a> field in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the <a href="#library-of-congress">Library of Congress</a></dd>
 
-<a name="library-of-congress-thesaurus-for-graphic-materials"></a>
-<dt>Library of Congress Thesaurus for Graphic Materials</dt>
-<dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
-
 <a name="library-for-the-performing-arts"></a>
 <dt>Library for the Performing Arts</dt>
 <dd>one of the Library's three <a href="#research-libraries">Research Libraries</a>; houses one of the world's most extensive research collections in the fields of theatre, film, dance, music, and recorded sound, as well as a wide array of circulating and reference materials</dd>
+
+<a name="library-of-congress-thesaurus-for-graphic-materials"></a>
+<dt>Library of Congress Thesaurus for Graphic Materials</dt>
+<dd>controlled vocabulary of graphic materials terms that can be used in the <a href="/metadata-documentation/metadata/element/genre/">Genre</a> and <a href="/metadata-documentation/metadata/element/physical-description/form/">Form</a> fields in the <a href="#metadata-management-system">Metadata Management System</a>; maintained by the Library of Congress</dd>
 
 <a name="library-services-center"></a>
 <dt>Library Services Center</dt>
@@ -488,6 +488,10 @@ Common terms used within the work of Metadata Services
 <dt>Photo Order</dt>
 <dd>alternate name of <a href="#public-order">Public Order</a></dd>
 
+<a name="preservica"></a>
+<dt>Preservica</dt>
+<dd>the Library's digital preservation software; managed by <a href="#digital-preservation">Digital Preservation</a></dd>
+
 <a name="prints-photographs-online-catalog"></a>
 <dt>Prints & Photographs Online Catalog</dt>
 <dd>former website for the collections of the Miriam and Ira D. Wallach Division of Art, Prints, and Photographs; previously accessible at <a href="https://wallachprintsandphotos.nypl.org/">wallachprintsandphotos.nypl.org</a>; used <a href="#the-museum-system">The Museum System</a> as its backend database</dd>
@@ -495,10 +499,6 @@ Common terms used within the work of Metadata Services
 <a name="public-order"></a>
 <dt>Public Order</dt>
 <dd>digitization request submitted to the Library by the public tracked by its sequential PO number; Public Orders often correspond to <a href="#work-orders">Work Orders</a></dd>
-
-<a name="preservica"></a>
-<dt>Preservica</dt>
-<dd>the Library's digital preservation software; managed by <a href="#digital-preservation">Digital Preservation</a></dd>
 
 <a name="python"></a>
 <dt>Python</dt>
@@ -522,7 +522,7 @@ Common terms used within the work of Metadata Services
   
 <a name="rights-clearance"></a>
 <dt>Rights Clearance</dt>
-<dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</a></dd>
+<dd>team within <a href="#digital-asset-management-access">Digital Asset Management and Access</a> dedicated to securing rights and permissions surrounding the use of our collection materials including providing guidance with copyright inquiries, conducting rights research, and providing high quality digital files of our holdings to the public</dd>
 
 <a name="schomburg-center-for-research-in-black-culture"></a>
 <dt>Schomburg Center for Research in Black Culture</dt>
