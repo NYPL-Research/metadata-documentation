@@ -22,6 +22,7 @@ Identifier that correlates [EAD](/metadata-documentation/resources/glossary/#enc
 {:toc}
 
 ## Source
+- [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace) plugin (pre-November 2026)
 
 {: .warning-title }
 > Known Issue
