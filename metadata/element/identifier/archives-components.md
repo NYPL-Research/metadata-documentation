@@ -23,6 +23,11 @@ Identifier that connects archives components from the [Archives Portal](/metadat
 
 - [Archives Portal](/metadata-documentation/resources/glossary/#archives-portal)
 
+{: .warning-title }
+> Known Issue
+>
+> **Archives Components ID**s are being regenerated when finding aids are reuploaded to Archives Portal. Digital is investigating.
+> <small><br>Last checked November 2026</small>
 
 ## Guidelines
 
