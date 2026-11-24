@@ -69,7 +69,7 @@ Common terms used within the work of Metadata Services
 <a name="collection-management-system"></a>
 <dt>CMS</dt>
 <dd>Collection Management System (deprecated)
-<div style="margin-left: 10px; font-style: italic;">see <a href="#spec">SPEC</div></dd>
+<div style="margin-left: 10px; font-style: italic;">see <a href="#spec">SPEC</a></div></dd>
 
 <dt>CRS</dt>
 <dd><a href="#collections-research-services">Collections and Research Services</a></dd>
