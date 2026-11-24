@@ -33,7 +33,7 @@ Describes how to create records in the Metadata Management System (MMS) by impor
 
 ## Overview
 
-- Metadata can be created or prepared in a spreadsheet and imported into MMS using CSV import to support bulk metadata creation where source metadata does not exist in a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/csv/)
+- Metadata can be created or prepared in a spreadsheet and imported into MMS using CSV import to support bulk metadata creation where source metadata does not exist in a [MARC record](/metadata-documentation/workflows/importing/marc/) or [finding aid](/metadata-documentation/workflows/importing/finding-aids/)
 
 ## Steps
 

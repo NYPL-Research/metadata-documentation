@@ -21,8 +21,7 @@ Describes if and when it is appropriate to create new metadata in the Metadata M
 - In a typical workflow, metadata elements are populated automatically when [importing metadata](/metadata-documentation/workflows/importing/) from other systems:
   - [Importing MARC Records](/metadata-documentation/workflows/importing/marc/)
   - [Importing Finding Aids](/metadata-documentation/workflows/importing/finding-aids/)
-  - [Importing TMS Records](/metadata-documentation/workflows/importing/tms/)
-- Where source metadata does not exist in a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/csv/), new metadata can be created in MMS in specific circumstances:
+- Where source metadata does not exist in a [MARC record](/metadata-documentation/workflows/importing/marc/) or [finding aid](/metadata-documentation/workflows/importing/finding-aids/), new metadata can be created in MMS in specific circumstances:
   - Individually, see [steps for creating records](#steps)
   - In bulk, see [Importing CSV data](/metadata-documentation/workflows/importing/csv/)
 - The circumstances when it is appropriate to create new metadata records in the Metadata Management System (MMS) are as follows:
@@ -42,7 +41,7 @@ Describes if and when it is appropriate to create new metadata in the Metadata M
 - Imported or existing records may also be enhanced with additional descriptive metadata elements
   - This extent of this enhancement is at the metadata creator's discretion based on time and resources available
   - See [By Element](/metadata-documentation/metadata/element/) for local practices for each metadata element and consult any any relevant [material](/metadata-documentation/metadata/material/)- or [division](/metadata-documentation/metadata/division/)-specific guidelines
-- Metadata records should _not_ be created in MMS _in lieu_ of material being cataloged in other Library systems such as [Sierra](/metadata-documentation/resources/glossary/#sierra), [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace), [TMS](/metadata-documentation/resources/glossary/#the-museum-system), or other [division](/metadata-documentation/metadata/division/)-specific descriptive sources
+- Metadata records should _not_ be created in MMS _in lieu_ of material being cataloged in other Library systems such as [Sierra](/metadata-documentation/resources/glossary/#sierra), [ArchivesSpace](/metadata-documentation/resources/glossary/#archivesspace), or other [division](/metadata-documentation/metadata/division/)-specific descriptive sources
   - The Metadata Service Unit (Metadata Services) has a policy that all material in MMS is cataloged in other Library systems, even if at a higher level than what has been digitized
   - Discuss with [Manager, Metadata Services](/metadata-documentation/contact/#our-team) before attempting to create a metadata record for uncataloged material
     - In cases where uncataloged material is described in MMS with the permission of the Manager, Metadata Services, an [admin note](/metadata-documentation/metadata/element/note/#type) should be added to identify the uncataloged material

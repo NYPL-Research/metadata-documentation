@@ -20,7 +20,7 @@ Describes whether and how to reimport previously-imported records into the Metad
 {:toc}
 
 ## Overview
-- Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/), [finding aid](/metadata-documentation/workflows/importing/finding-aids/), or [TMS record](/metadata-documentation/workflows/importing/tms/) is not automatically kept in sync when changes are made to the source record
+- Metadata [imported](/metadata-documentation/workflows/importing/) into MMS from a [MARC record](/metadata-documentation/workflows/importing/marc/) or [finding aid](/metadata-documentation/workflows/importing/finding-aids/) is not automatically kept in sync when changes are made to the source record
 - When changes are made to the source record, it may be necessary to reimport metadata to ensure description in MMS aligns with description found in other systems
 
 ## Steps for Metadata Services Staff
@@ -29,7 +29,7 @@ Describes whether and how to reimport previously-imported records into the Metad
 {: .d-inline .v-align-middle .mr-2 }
 For Metadata Services Staff
 {: .d-inline .v-align-middle .label .label-purple .mx-1 }
-1. If you are notified or become aware of updated or new MARC records, finding aids, or TMS records that correspond to records in MMS, cross-reference the MMS record with its source to determine the extent of changes
+1. If you are notified or become aware of updated or new MARC records or finding aids that correspond to records in MMS, cross-reference the MMS record with its source to determine the extent of changes
    1. Manual updates to the record may be preferable if:
       1. You know exactly what the changes in the source record(s) are, and it is not labor-intensive to make the changes in the existing MMS record
       1. There are a large number of captures that would take a significant amount of time to relocate to reimported records
@@ -49,7 +49,6 @@ For Metadata Services Staff
    1. Create a new record following the relevant [import workflow](/metadata-documentation/workflows/importing/):
       1. [MARC Records](/metadata-documentation/workflows/importing/marc/)
       1. [Finding Aids](/metadata-documentation/workflows/importing/finding-aids/)
-      1. [TMS Records](/metadata-documentation/workflows/importing/tms/)
    1. [Restructure](/metadata-documentation/workflows/remediation/restructuring/) the new record by [moving records](/metadata-documentation/workflows/remediation/restructuring/#moving-records) from the legacy record(s), [converting record types](/metadata-documentation/workflows/remediation/restructuring/#converting-between-record-types) as needed
       1. If it is unclear where a record or capture belongs, contact the division
       1. [Approve](/metadata-documentation/workflows/approvals/) the new record(s) as you go based on the approval status of the legacy record(s)

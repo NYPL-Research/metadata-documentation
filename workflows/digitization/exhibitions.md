@@ -43,7 +43,6 @@ For Non-Metadata Services Staff
       1. Source record, e.g.:
          1. Catalog record link containing a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/)
          1. Finding aid link containing an [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/) and which box/folder contains the to-be-digitized item
-         1. [TMS ID](/metadata-documentation/metadata/element/identifier/tms/)
       1. If the source record does not provide item-level metadata:
          1. Any additional metadata needed to fulfill [minimum metadata requirements](/metadata-documentation/metadata/element/identifier/nypl-exhibition/)
       1. If the item will only be partially digitized:
@@ -84,7 +83,7 @@ For Metadata Services Manager
       1. If any required information is missing, discuss with the [Manager, Metadata Services](/metadata-documentation/contact/)
       1. In special cases, some items may be digitized that have not met the requirements for digitization, but these items should not be [approved](/metadata-documentation/workflows/approvals/) in MMS until the requirements are met
    1. Confirm what item(s) need to be created in MMS
-      1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/), [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), or [TMS ID](/metadata-documentation/metadata/element/identifier/tms/#tms-id) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
+      1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) or [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
       1. If an initial search using one of the above identifiers yields no results—or if none are provided—search any other relevant metadata, i.e. collection name, title, or creator
       1. For items in collections or containers, navigate through the existing structure to reach the level in the hierarchy where the item would belong
    1. Work with the [Manager, Metadata Services](/metadata-documentation/contact/) to create tasks in [Metadata Services › New Digitization › Metadata Creation 🔒](https://app.clickup.com/2305128/v/l/6-901707354926-1)

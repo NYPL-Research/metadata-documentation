@@ -29,7 +29,7 @@ Provides context and workflows that support inclusive and reparative description
 
 ### Steps for Non-Metadata Services Staff
 - Metadata Services has a policy that all metadata in NYPL Digital Collections (DC) and Metadata Management System (MMS) is consistent with any corresponding description that exists in other Library systems
-   - If harmful description or content found in DC/MMS also exists in other Library systems (e.g. catalog records, finding aids, or TMS records), Metadata Services will work with you to ensure updates are made in those other systems first
+   - If harmful description or content found in DC/MMS also exists in other Library systems (e.g. catalog records or finding aids), Metadata Services will work with you to ensure updates are made in those other systems first
    - If a source record has already been updated in another Library system that corresponds to digitized material in DC/MMS, let us know via our [contact form](/metadata-documentation/contact/form/)
 
 #### Initiating Reparative Description Process
@@ -112,10 +112,6 @@ For Metadata Services Staff
          1. If necessary, submit a ticket via ServiceNow ([BookOps › Cataloging 🔒](https://nyplprod.service-now.com/nyplsp?id=sc_cat_item&sys_id=37d54594c4504d00f254019b5f40e91f&sysparm_category=2c3832e1139ee740c82e7e276144b022)) with the **Inquiry type**: **Sierra bib record error** indicating who in the division is the point person for the request
          1. When the source MARC record is updated, [revise the metadata](#revising-harmful-description) in MMS to match
       1. If the source MARC record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
-   1. Description was created by Library staff and matches description from a TMS record:
-      1. Work with [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to determine how to update the source TMS record
-         1. When the source TMS record is updated, [revise the metadata](#revising-harmful-description) in MMS to match
-      1. If the source TMS record _will not_ be updated, [add a harmful description note](#adding-a-harmful-description-note) instead
    1. Description exists exclusively in MMS/DC:
       1. Work with [division staff](https://docs.google.com/spreadsheets/d/1P-YDJigon640fTCLP4Ig4-zmzqrX88v5M24ShuxFNVY/edit) to determine how to update the MMS/DC record
          1. [Revise the metadata](#revising-harmful-description)

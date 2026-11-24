@@ -53,7 +53,7 @@ For Metadata Services Staff
 1. Monitor your [ClickUp notifications 🔒](https://app.clickup.com/2305128/notifications) and [Metadata Services › New Digitization › Metadata Creation 🔒](https://app.clickup.com/2305128/v/l/6-901707354926-1) for metadata creation tasks that have been assigned to you
     1. Incoming PO metadata requests will have a task name that begins with PO and the status of **To Create Metadata**
 1. Review the task description to determine what item(s) need to be created in MMS
-    1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/), [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/), or [TMS ID](/metadata-documentation/metadata/element/identifier/tms/#tms-id) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
+    1. If a [bnumber](/metadata-documentation/metadata/element/identifier/bnumber/) or [MSS Unit ID](/metadata-documentation/metadata/element/identifier/mss-unit/) is provided, search it in MMS to verify whether an earlier record for the item(s) or any parent collections or containers already exist(s)
     1. If an initial search using one of the above identifiers yields no results—or if none are provided—search any other relevant metadata, e.g. collection name, title, or creator
     1. If an initial search by bnumber yields no results or no bnumber is provided, search any other relevant metadata, e.g. collection name, title, or creator
     1. For items in collections or containers, navigate through the existing structure to reach the level in the hierarchy where the item would belong
